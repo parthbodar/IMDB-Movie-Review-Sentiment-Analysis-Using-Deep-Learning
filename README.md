@@ -32,7 +32,7 @@ pip install scikit-learn
 Clone the Repository
 bash
 
-git clone https://github.com/yourusername/imdb-cnn-sentiment-analysis.git
+git clone [https://github.com/yourusername/imdb-cnn-sentiment-analysis.git](https://github.com/parthbodar/IMDB-Movie-Review-Sentiment-Analysis-Using-Deep-Learning.git)
 
 cd imdb-cnn-sentiment-analysis
 
@@ -61,7 +61,7 @@ Train the Model
 First, you can train the CNN model on the IMDb dataset using the script provided in the repository:
 
 bash
-Copy code
+
 python train_model.py
 This will train the CNN and save the model in the saved_model/ directory.
 
@@ -69,10 +69,17 @@ Run the Application
 Once the model is trained, you can start the Gradio interface:
 
 bash
-Copy code
+
 python app.py
 Open your web browser and navigate to the local Gradio link provided by the terminal (e.g., http://127.0.0.1:7860/). You will see the UI where you can enter a movie review and get the predicted sentiment.
 
 Example
 Input: “This movie was fantastic! The storyline was gripping and the characters were well-developed.”
 Output: Positive
+
+
+Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page or create a pull request.
+
+License
+This project is licensed under the MIT License.
