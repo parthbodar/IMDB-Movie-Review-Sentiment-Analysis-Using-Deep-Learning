@@ -3,15 +3,16 @@
 This project performs sentiment analysis on the IMDb movie review dataset using a Convolutional Neural Network (CNN). The model predicts whether a movie review is positive or negative. The application interface is created using Gradio, a user-friendly library that allows us to build simple UIs for machine learning models.
 
 Table of Contents
-Overview
-Installation
-Model Architecture
-Dataset
-Application Interface
-Usage
-Contributing
-License
-Overview
+1.Overview
+2.Installation
+3.Model Architecture
+4.Dataset
+5.Application Interface
+6.Usage
+7.Contributing
+8.Overview
+
+
 This project uses a CNN model to classify IMDb movie reviews as either positive or negative. A Convolutional Neural Network is applied to text data for sentiment analysis by embedding the input text, applying filters to extract meaningful features, and predicting the sentiment of the review. Gradio is used to build an interactive user interface where users can input a movie review and receive the sentiment classification result.
 
 Installation
