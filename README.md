@@ -4,12 +4,19 @@ This project performs sentiment analysis on the IMDb movie review dataset using 
 
 Table of Contents
 1.Overview
+
 2.Installation
+
 3.Model Architecture
+
 4.Dataset
+
 5.Application Interface
+
 6.Usage
+
 7.Contributing
+
 8.Overview
 
 
